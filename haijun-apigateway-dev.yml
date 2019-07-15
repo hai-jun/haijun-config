@@ -1,6 +1,6 @@
 apigateway: 
   datasource:
-    url: jdbc:mysql://47.112.14.63:3306/gateway?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true&serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/gateway?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true&serverTimezone=UTC
     username: root
     password: root
     driverClassName: com.mysql.jdbc.Driver
